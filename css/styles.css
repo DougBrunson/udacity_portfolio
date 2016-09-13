@@ -8,15 +8,18 @@ blue: #0094D9
 	min-height: 7%;
 }
 
-.navbar-nav, h1 {
+h1 {
 	color: #0094D9;
-	padding: auto;
-	padding-top: 1%;
-	vertical-align: middle;
+	font-weight: bold;
+	text-align: center;
+}
+
+hr {
+	padding-bottom: 2%;
 }
 
 .navbar-logo {
-	max-height: 200%;
+	max-height: 150%;
 	max-width: auto; 
 }
 
